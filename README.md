@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @3und60
+- 👋 Hi, I’m @dreiund60
 - 👀 I’m interested in almost everthing web-development has to give.
 - 🌱 I’m currently learning html and vanilla javascript
 - 💞️ I’m looking to collaborate on issues like graphics on websites
